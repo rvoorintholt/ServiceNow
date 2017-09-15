@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="user_name" label="User name" language="en" table="u_imp_saml_user_z1krn2ljcu">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <help/>
+            <hint/>
+            <label>User name</label>
+            <language>en</language>
+            <name>u_imp_saml_user_z1krn2ljcu</name>
+            <plural>User names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-15 09:53:29</sys_created_on>
+            <sys_id>d75546944fd50300f9c4eb118110c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User name</sys_name>
+            <sys_package display_value="RTUItest" source="x_161164_rtuitest">002b25944f950300f9c4eb118110c76b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RTUItest">002b25944f950300f9c4eb118110c76b</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_saml_user_z1krn2ljcu_user_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-15 09:53:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

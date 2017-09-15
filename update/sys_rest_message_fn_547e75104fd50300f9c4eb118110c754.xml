@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>RESTtest01 [ Default GET ]</qualified_name>
+        <rest_endpoint>https://dev-153116-admin.oktapreview.com</rest_endpoint>
+        <rest_message display_value="RESTtest01">43faf59c4f950300f9c4eb118110c7d4</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-15 09:23:15</sys_created_on>
+        <sys_id>547e75104fd50300f9c4eb118110c754</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="RTUItest" source="x_161164_rtuitest">002b25944f950300f9c4eb118110c76b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RTUItest">002b25944f950300f9c4eb118110c76b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_547e75104fd50300f9c4eb118110c754</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-15 09:23:15</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
